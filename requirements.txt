@@ -1,0 +1,16 @@
+# Core
+sqlalchemy>=2.0
+# Async HTTP client
+httpx>=0.25
+# Telegram bot
+python-telegram-bot>=20.0
+# Scheduler
+apscheduler>=3.10
+# Ollama client
+ollama>=0.1
+# Playwright (already installed via pip in Dockerfile, but we list it)
+playwright>=1.40
+# For data manipulation (optional)
+pandas>=2.0
+# For environment variables
+python-dotenv>=1.0
