@@ -96,4 +96,4 @@ Thumbs.db
 # Application specific
 data/
 logs/
-.env.claude/
+.claude/
